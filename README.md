@@ -8,15 +8,17 @@ There are two files :
 
   <h2> Prerequisites </h2>
    To deploy your website, you need :
+        <li>
         A server with Linux (with Digital Ocean, as an example)
         A terminal (GitBash for example)
         An internet connexion
         Private and public keys from your computer
         With Digital Ocean, you will need to create a clean droplet to create your Ubuntu server
         The IP adress of your server
+        </li>
 
 
-      Deployement :
+     < Deployement :
         Open your terminal
         Go to the cloud webcloud's folder on your computer  : $cd~...\FOLDER\
         Connect to the distant server : $~ssh root @XXX.XXX.XXX.XXX
