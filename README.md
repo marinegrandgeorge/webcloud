@@ -3,8 +3,11 @@ We have created a script that deploys an offline version of Wikipedia to a dista
 
 We are going to to explain you how to deploy our project to your own computer.
 There are two files :
-  README.md ; Text file with information for deployement
-  deploy.sh : bash script for deployement
+  <ul>
+  
+  <li>README.md ; Text file with information for deployement </li>
+  <li>deploy.sh : bash script for deployement </li>
+  </ul>
 
   <h2> Prerequisites </h2>
    To deploy your website, you need :
@@ -25,6 +28,7 @@ There are two files :
        <li> Connect to the distant server : $~ssh root @XXX.XXX.XXX.XXX </li>
         <li>Enter yes if they ask you </li>
         <li>Go to your browser and enter your server's ip adress </li>
+     <ul>
 
         If you have correctly followed the different steps, the deployment should have succesfully worked. 
 
