@@ -25,9 +25,10 @@ There are two files :
     <ul>
        <li> Open your terminal </li>
        <li> Go to the cloud webcloud's folder on your computer  : $cd~...\FOLDER\ </li>
-       <li> Connect to the distant server : $~ssh root @XXX.XXX.XXX.XXX </li>
-        <li>Enter yes if they ask you </li>
-        <li>Go to your browser and enter your server's ip adress </li>
+       <li> Connect to the distant server and deploy the file "deploy.sh" : $~ssh root @XXX.XXX.XXX.XXX &lt; ./deploy.sh </li>
+       <li> The process may take a while </li>
+       <li> Enter yes if they ask you to</li>
+       <li>Go to your browser and enter your server's ip adress when the process has ended</li>
      <ul>
 
         If you have correctly followed the different steps, the deployment should have succesfully worked. 
