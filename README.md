@@ -23,7 +23,7 @@ There are two files :
         Enter yes if they ask you
         Go to your browser and enter your server's ip adress
 
-        If you have correctly follow the different steps, the deployment should have worked
+        If you have correctly followed the different steps, the deployment should have succesfully worked. 
 
 
 
