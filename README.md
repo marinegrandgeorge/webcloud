@@ -15,14 +15,16 @@ There are two files :
        <li> Private and public keys from your computer </li>
        <li> With Digital Ocean, you will need to create a clean droplet to create your Ubuntu server </li>
        <li> The IP adress of your server </li>
+     </ul>
         
 
-   <h2> Deployement : </h2>
-        Open your terminal
-        Go to the cloud webcloud's folder on your computer  : $cd~...\FOLDER\
-        Connect to the distant server : $~ssh root @XXX.XXX.XXX.XXX
-        Enter yes if they ask you
-        Go to your browser and enter your server's ip adress
+  <h2> Deployement : </h2>
+    <ul>
+       <li> Open your terminal </li>
+       <li> Go to the cloud webcloud's folder on your computer  : $cd~...\FOLDER\ </li>
+       <li> Connect to the distant server : $~ssh root @XXX.XXX.XXX.XXX </li>
+        <li>Enter yes if they ask you </li>
+        <li>Go to your browser and enter your server's ip adress </li>
 
         If you have correctly followed the different steps, the deployment should have succesfully worked. 
 
