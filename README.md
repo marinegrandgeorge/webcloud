@@ -17,7 +17,7 @@ There are two files :
        <li> The IP adress of your server </li>
         
 
-        <h2> Deployement : </h2>
+   <h2> Deployement : </h2>
         Open your terminal
         Go to the cloud webcloud's folder on your computer  : $cd~...\FOLDER\
         Connect to the distant server : $~ssh root @XXX.XXX.XXX.XXX
